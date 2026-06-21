@@ -4,6 +4,16 @@ Native Android TV and Fire TV client for viewing camera streams from ScottiBYTE 
 
 The client pairs with a self-hosted MultiView Server, receives an approved camera catalog, and plays TV-friendly HLS streams without exposing RTSP camera credentials to the TV device.
 
+## Download APK
+
+Download the latest Android TV / Fire TV APK from the GitHub Releases page:
+
+https://github.com/ScottiBYTE/multiview-android-tv/releases/latest
+
+Current release asset:
+
+    ScottiBYTE-MultiView-AndroidTV-FireTV-v1.0.0-rc30.apk
+
 ## Companion Server
 
 This app is designed to work with ScottiBYTE MultiView Server:
