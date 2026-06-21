@@ -1,0 +1,36 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ local files
+.idea/
+*.iml
+local.properties
+
+# Generated / temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Backup files created during development
+*.before-*
+*.backup
+*.orig
+
+# Keystores and signing material
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# APK/AAB build artifacts
+*.apk
+*.aab
+
+# OS metadata
+.DS_Store
+Thumbs.db

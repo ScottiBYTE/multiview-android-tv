@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--
+        MultiView Server is commonly deployed on a local LAN using HTTP.
+        This allows cleartext HTTP connections to user-configured local servers
+        without hardcoding a private IP address in the app source.
+    -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
