@@ -103,6 +103,11 @@
                 android:textColorHint="#64748b"
                 android:hint="https://multiview-server.scottibyte.com"
                 android:backgroundTint="#334155"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:clickable="true"
+                android:cursorVisible="true"
+                android:imeOptions="actionDone"
                 android:inputType="textUri" />
             <TextView
                 android:id="@+id/pairingCodeText"
